@@ -15,6 +15,10 @@ Lists of packages, services and manuals related to web scraping.
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
 
+## Web Capture and Automation APIs
+
+* [PageBolt](https://pagebolt.dev) - Cloud API for screenshots, PDFs, video recording, and multi-step browser sequences; no local browser required.
+
 ## Captcha Solving Services
 
 * [https://2captcha.com](https://2captcha.com/?from=3019071)
